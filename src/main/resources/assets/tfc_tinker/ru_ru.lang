@@ -1,0 +1,44 @@
+# TFC Materials
+material.sterling_silver.name=Чистое серебро
+material.rose_gold.name=Розовое золото
+material.bismuth.name=Висмут
+material.red_steel.name=Красная сталь
+material.blue_steel.name=Синяя сталь
+material.black_steel.name=Чёрная сталь
+material.wrought_iron.name=Кованое железо
+material.platinum.name=Платина
+material.zinc.name=Цинк
+material.nickel.name=Никель
+material.bismuth_bronze.name=Висмутовая бронза
+material.black_bronze.name=Чёрная бронза
+
+# TFC Metallum Materials
+material.constantan.name=Константан
+material.tungsten.name=Вольфрам
+material.tungsten_steel.name=Вольфрамовая сталь
+material.titanium.name=Титан
+material.osmium.name=Осмий
+material.aluminium.name=Алюминий
+material.antimony.name=Сурьма
+material.invar.name=Инвар
+material.nickel_silver.name=Никелевое серебро
+material.red_alloy.name=Красный сплав
+
+# harvest levels
+harvestlevel.redsteel = %1Красная сталь
+harvestlevel.bluesteel = %2Синяя сталь
+
+# traits
+modifier.brittle.name=Хрупкость
+modifier.brittle.desc=§oОно должно быть сломано!§r\nИнструменты становятся медленнее, теряя прочность
+
+modifier.ferromagnetism.name=Ферромагнетизм
+modifier.ferromagnetism.desc=§oЭто магия!§r\nЛомание железа, кажется, даёт странную силу
+# items
+
+# prospector pickaxe
+item.tfc_tinker.prospector_pick.name=Кирка золотоискателя
+item.tfc_tinker.prospector_pick.desc = Инструмент, используемый для поиска жилы.
+
+# prospector pickaxe head
+item.tfc_tinker.propick_head.name=Обух кирки золотоискателя
